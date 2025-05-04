@@ -3,7 +3,7 @@
 This folder includes test documentation and performance analysis for the GoIT educational platform.
 
 ## Contents
-- `test-cases-goit.xlsx` – Functional test cases
+- `GoiT_Test_Cases.md` – Functional test cases
 - `performance-analysis.md` – Performance findings and DevTools data
 
 ## Tools & Techniques
