@@ -3,8 +3,9 @@
 This folder contains QA documentation for the Makeup web application.
 
 ## Contents
-- `test-cases-makeup.xlsx` – Manual test cases for core user flows
-- `bug-reports-makeup.md` – Critical issues discovered during testing
+- `Makeup_Test-Cases_and_Bug_Reports.md`
+- Manual test cases for core user flows
+- Critical issues discovered during testing
 
 ## Tools & Techniques
 - Manual testing
