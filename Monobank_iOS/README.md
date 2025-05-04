@@ -4,7 +4,7 @@ This folder contains QA documentation for the Monobank iOS project.
 
 ## Contents
 - `test-plan.md` – UAT and regression test plan
-- `test-cases-monobank.csv` – Structured test cases by feature
+- `test-cases-monobank.md` – Structured test cases by feature
 
 ## Tools & Techniques
 - Mobile testing (iOS)
