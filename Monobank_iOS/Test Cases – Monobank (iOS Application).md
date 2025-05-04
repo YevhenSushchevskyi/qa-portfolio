@@ -13,8 +13,7 @@ This document contains test cases for Monobank iOS application. Focus areas incl
 | TC002 | Login with incorrect PIN     | User is registered                            | 1. Launch app <br>2. Enter wrong PIN                                   | Error message is shown                   | Pass   |
 | TC003 | View account balance         | User is logged in           | 1. Login <br>2. Observe balance block                                  | Account balance is displayed correctly   | Pass   |
 | TC004 | Make transfer to saved user  | User is logged in           | 1. Open Transfers <br>2. Select saved user <br>3. Enter amount and send | Transaction is completed successfully    | Pass   |
-| TC005 | Send money with empty fields | User is logged in
-| 1. Open Transfers <br>2. Leave amount empty <br>3. Click Send           | Validation error shown                   | Pass   |
+| TC005 | Send money with empty fields | User is logged in | 1. Open Transfers <br>2. Leave amount empty <br>3. Click Send         | Validation error shown              |Pass   |
 
 ---
 
