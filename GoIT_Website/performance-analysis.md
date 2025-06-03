@@ -6,7 +6,7 @@ During functional testing of the GoIT website, several performance issues were i
 ## Tools Used
 - Chrome DevTools (Performance tab)
 - Lighthouse (Chrome Extension)
-- Screenshots for before/after comparisons
+
 
 ## Issues Found
 - Unoptimized JavaScript handlers causing UI delays when submitting forms
